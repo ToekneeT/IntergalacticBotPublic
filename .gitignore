@@ -1,0 +1,14 @@
+venv/
+myenv/
+sounds/
+__pycache__/
+cogs/memes.py
+.env
+config.json
+stats.json
+RunIntergalacticBot.sh
+stats.log
+bank.json
+last_bank.json
+ledger.csv
+stats.db
